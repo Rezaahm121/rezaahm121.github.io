@@ -36,18 +36,17 @@
       "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/livery%20antobollo.png"
     },
     {
-      "title":"Bus Telolet",
-      "image":"file:///android_asset/bus3.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
-    }
-  ,
+      "title":"Truk Canter Bos Moeda Muatan Sawit",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/3.jpg",
+      "link_mods":"https://rezaahm121.github.io/CANTER CUSTOM 03 DUMP SAWIT.zip",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/MOD_canter%20bawa%20sawit.bussidmodMod%20Vehicle0.png"
+    },
     {
-      "title":"Truck UD Quester Bak Muat Kayu",
-      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
-      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
-      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
-    } ,
+      "title":"Truk Canter Bos Moeda Muatan Sawit",
+      "image":"",
+      "link_mods":"",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/MOD_canter%20bawa%20sawit.bussidmodMod%20Vehicle0.png"
+    },
     {
       "title":"Jaguar XE SV Project 8",
       "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
