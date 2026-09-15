@@ -438,10 +438,34 @@
       "link_livery":""
       },
      {
-      "title":"Jaguar XE SV Project 8",
-      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/29.jpg",
-      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
-      "link_livery":""
+      "title":"Innova Venturer",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/71.jpg",
+      "link_mods":"https://rezaahm121.github.io/ve.zip",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/Fake%20Travel%20Jhock%20Official.png"
+      },
+     {
+      "title":"Innova Mudik",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/72.jpg",
+      "link_mods":"https://rezaahm121.github.io/2015terpal_sopir.zip",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/Picsart_22-07-23_01-47-59-653.png"
+      },
+     {
+      "title":"Toyota Hiace",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/73.jpg",
+      "link_mods":"https://rezaahm121.github.io/premio.zip",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/Picsart_22-05-26_17-48-49-617.png"
+      },
+     {
+      "title":"Mobil Elf Angkot",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/74.jpg",
+      "link_mods":"https://rezaahm121.github.io/ELP Update.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/Powerfull%2033-picsay.png"
+      },
+     {
+      "title":"Hino Dutro",
+      "image":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/75.jpg",
+      "link_mods":"https://rezaahm121.github.io/HINODUTRO.bussidmod",
+      "link_livery":"https://raw.githubusercontent.com/Rezaahm121/rezaahm121.github.io/refs/heads/main/hinodutro.png"
     }
   ]
 }
